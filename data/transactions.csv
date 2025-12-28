@@ -1,0 +1,4 @@
+id,property_id,property_title,user_id,user_name,full_name,email,phone,address,payment_method,notes,total_amount,status,created_at
+trans_694fa877bb4a5,2,"Downtown Penthouse",user_694fa1042466a,"jihan nisrina","jihan nisrina",jihan@gmail.com,0812345678,"bali, indonesia",credit_card,,$850000,pending,"2025-12-27 09:35:51"
+trans_6950a23307df9,1,"Modern Luxury Villa",user_1766891893_3110,"Amelia Azmi Nur Nabawi","Amelia Azmi Nur Nabawi",amelia@gmail.com,088211946538,"bogor, indonesia",credit_card,"lahan parkir luas",$1250000,pending,"2025-12-28 04:21:23"
+trans_6950a5a597987,1,"Modern Luxury Villa",user_1766891893_3110,"Amelia Azmi Nur Nabawi","Amelia Azmi Nur Nabawi",amelia@gmail.com,088211946538,"bogor, indonesia",credit_card,tamanluas,$1250000,pending,"2025-12-28 04:36:05"
